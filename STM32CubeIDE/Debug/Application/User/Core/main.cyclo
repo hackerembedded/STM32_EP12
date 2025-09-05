@@ -1,0 +1,7 @@
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:63:5:__io_putchar	1
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:69:9:CalculateTemp	2
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:82:5:main	2
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:141:6:SystemClock_Config	3
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:184:6:HAL_ADC_ConvCpltCallback	1
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:193:6:HAL_TIM_PeriodElapsedCallback	2
+C:/Users/montanab/STM32CubeIDE/EP12/Core/Src/main.c:209:6:Error_Handler	1
